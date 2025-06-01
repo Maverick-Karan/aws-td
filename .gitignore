@@ -11,6 +11,9 @@ venv/
 
 .env
 
+docker-compose.yaml
+Dockerfile
+
 # Logs
 logs
 *.log
